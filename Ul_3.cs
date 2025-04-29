@@ -4,7 +4,7 @@ class Program
 {
     public static void Main(string[] args)
     {
-        // ulesanne 7: Korrutustabel
+        // 7 Korrutustabel
         Console.Write("Sisesta ridade arv: ");
         int ridadearv = int.Parse(Console.ReadLine());
         Console.Write("Sisesta veergude arv: ");
